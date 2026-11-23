@@ -62,6 +62,21 @@ else
   cp "$HERE/all_sources.txt" "$HERE/sources.txt"
 fi
 
+say "4.5/5 Восстановление из DEX"
+DEXDIR="$WORK/dex"
+mkdir -p "$DEXDIR"
+python3 "$ROOT/dex_recovery/extract_dex.py" "$ROOT" "$DEXDIR"
+if ls "$DEXDIR"/*.dex >/dev/null 2>&1; then
+  DEXLIST=$(ls "$DEXDIR"/*.dex | tr '\n' ' ')
+  echo "dex: $(ls "$DEXDIR"/*.dex | wc -l | tr -d ' ') файлов"
+  # F4: типы потерянных локальных переменных (?? name = ...)
+  python3 "$ROOT/dex_recovery/fix_unknown_local.py" "$SRC" --apply || true
+  # главное: вернуть пропавшие ВЛОЖЕННЫЕ классы по сигнатурам из DEX
+  python3 "$ROOT/dex_recovery/inject_nested.py" "$SRC" "$SRC" $DEXLIST || true
+else
+  echo "ВНИМАНИЕ: dex не найден — восстановление из DEX пропущено"
+fi
+
 say "5/5 Компиляция"
 mkdir -p "$OUT"; rm -rf "$OUT"/*
 echo "передаю $(wc -l < "$HERE/sources.txt") файлов в javac (несколько минут)..."
