@@ -53,12 +53,12 @@ SRC="$WORK/out/sources"
 [ -d "$SRC" ] || die "в архиве нет out/sources"
 echo "файлов: $(find "$SRC" -name '*.java' | wc -l)"
 
-say "4/5 Применяю 74 исправленных файла"
+say "4/5 Применяю 78 исправленных файлов"
 if [ -f "$ROOT/syntax_fixes.zip" ]; then
   ( cd "$WORK/out" && unzip -qo "$ROOT/syntax_fixes.zip" ) || echo "предупреждение: не удалось наложить патчи"
-  echo "наложено 74 файла из syntax_fixes.zip"
+  echo "наложено 78 файлов из syntax_fixes.zip"
 else
-  echo "syntax_fixes.zip не найден — компилирую как есть (будет на 74 ошибки больше)"
+  echo "syntax_fixes.zip не найден — компилирую как есть (будет больше ошибок)"
 fi
 
 say "5/5 Компиляция"
