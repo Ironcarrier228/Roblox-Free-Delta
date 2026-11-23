@@ -1,0 +1,29 @@
+{
+ "javac_found_fixes": [
+  {
+   "file": "com/appsflyer/internal/AFb1tSDK.java",
+   "rules": [
+    "F2:1"
+   ]
+  },
+  {
+   "file": "com/appsflyer/internal/AFi1gSDK.java",
+   "rules": [
+    "F2:1"
+   ]
+  },
+  {
+   "file": "com/roblox/client/personasdk/R.java",
+   "rules": [
+    "F1:614"
+   ]
+  },
+  {
+   "file": "com/roblox/universalapp/messagebus/MessageBus.java",
+   "rules": [
+    "F2:1"
+   ]
+  }
+ ],
+ "total_fixed_files": 78
+}

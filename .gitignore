@@ -1,1 +1,13 @@
+# android.jar (27 МБ) не храним в git — качается скриптом
+build_kit/android35.jar
+build_kit/android35.jar.part
 
+# рабочие каталоги сборки
+build_kit/work/
+build_kit/out/
+build_kit/out-own/
+build_kit/all_sources.txt
+build_kit/sources.txt
+build_kit/own_sources.txt
+build_kit/errors.txt
+build_kit/own_errors.txt

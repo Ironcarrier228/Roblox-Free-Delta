@@ -1,0 +1,2042 @@
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/kotlin/collections/h0.java:23: error: <identifier> expected
+    public final Function1<K, V> default;
+                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/kotlin/collections/h0.java:30: error: <identifier> expected
+        this.default = function1;
+             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/kotlin/collections/h0.java:30: error: not a statement
+        this.default = function1;
+            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/kotlin/collections/h0.java:30: error: : or -> expected
+        this.default = function1;
+                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/kotlin/collections/h0.java:30: error: illegal start of expression
+        this.default = function1;
+                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/kotlin/collections/h0.java:133: error: <identifier> expected
+        return (v8 != null || q8.containsKey(key)) ? v8 : this.default.invoke(key);
+                                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/kotlin/collections/h0.java:133: error: : or -> expected
+        return (v8 != null || q8.containsKey(key)) ? v8 : this.default.invoke(key);
+                                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/pn/a.java:26: error: <identifier> expected
+    None,
+        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/fp/m0.java:766: error: illegal start of expression
+        throw new UnsupportedOperationException("Method not decompiled: fp.m0.E(vo.d2$a, vo.j0$d, ls.g, ip.l, ln.h, kotlin.jvm.functions.Function1, kr.l):vo.y3");
+        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/fp/m0.java:890: error: illegal start of expression
+        throw new UnsupportedOperationException("Method not decompiled: fp.m0.M(vo.d2$a, vo.j0$g, ls.g, ip.l, kotlin.jvm.functions.Function1):vo.y3");
+        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/fp/m0.java:1054: error: illegal start of expression
+        throw new UnsupportedOperationException("Method not decompiled: fp.m0.Q(android.content.Context, vo.d2$a, vo.j0$n, ls.g, ip.l, ln.h, kotlin.jvm.functions.Function1, kr.l):vo.y3");
+        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/qr/e4.java:110: error: <identifier> expected
+        public final char char;
+                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/qr/e4.java:110: error: <identifier> expected
+        public final char char;
+                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/qr/e4.java:114: error: <identifier> expected
+            this.char = c10;
+                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/qr/e4.java:114: error: not a statement
+            this.char = c10;
+                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/qr/e4.java:114: error: ';' expected
+            this.char = c10;
+                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/qr/e4.java:114: error: not a statement
+            this.char = c10;
+                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/qr/e4.java:119: error: <identifier> expected
+            return this.char;
+                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/qr/e4.java:126: error: <identifier> expected
+            return (other instanceof Literal) && this.char == ((Literal) other).char;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/qr/e4.java:126: error: ';' expected
+            return (other instanceof Literal) && this.char == ((Literal) other).char;
+                                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/qr/e4.java:126: error: not a statement
+            return (other instanceof Literal) && this.char == ((Literal) other).char;
+                                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/qr/e4.java:126: error: ';' expected
+            return (other instanceof Literal) && this.char == ((Literal) other).char;
+                                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/qr/e4.java:126: error: not a statement
+            return (other instanceof Literal) && this.char == ((Literal) other).char;
+                                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/qr/e4.java:126: error: ';' expected
+            return (other instanceof Literal) && this.char == ((Literal) other).char;
+                                                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/qr/e4.java:126: error: not a statement
+            return (other instanceof Literal) && this.char == ((Literal) other).char;
+                                                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/qr/e4.java:130: error: <identifier> expected
+            return Character.hashCode(this.char);
+                                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/qr/e4.java:130: error: ';' expected
+            return Character.hashCode(this.char);
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/qr/e4.java:135: error: <identifier> expected
+            return "Literal(char=" + this.char + ")";
+                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/qr/e4.java:135: error: ';' expected
+            return "Literal(char=" + this.char + ")";
+                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/iv/b.java:24: error: <identifier> expected
+    public static final l0 default;
+                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/iv/b.java:30: error: orphaned default
+        default = l0.T(kVar, e10, null, 2, null);
+        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/iv/b.java:30: error: : or -> expected
+        default = l0.T(kVar, e10, null, 2, null);
+               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/iv/b.java:30: error: illegal start of expression
+        default = l0.T(kVar, e10, null, 2, null);
+                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/iv/b.java:35: error: orphaned default
+        default.I(context, block);
+        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/iv/b.java:35: error: : or -> expected
+        default.I(context, block);
+               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/iv/b.java:40: error: orphaned default
+        default.L(context, block);
+        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/iv/b.java:40: error: : or -> expected
+        default.L(context, block);
+               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/google/android/gms/internal/measurement/p9.java:223: error: unnamed classes are a preview feature and are disabled by default.
+            com.google.android.gms.internal.measurement.t8 r6 = com.google.android.gms.internal.measurement.t8.c(r7, r6, r8)     // Catch: java.lang.Throwable -> L47
+            ^
+  (use --enable-preview to enable unnamed classes)
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/google/android/gms/internal/measurement/p9.java:223: error: ';' expected
+            com.google.android.gms.internal.measurement.t8 r6 = com.google.android.gms.internal.measurement.t8.c(r7, r6, r8)     // Catch: java.lang.Throwable -> L47
+                                                                                                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/google/android/gms/internal/measurement/p9.java:242: error: class, interface, enum, or record expected
+                }
+                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/google/android/gms/internal/measurement/p9.java:251: error: class, interface, enum, or record expected
+                }
+                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/google/android/gms/internal/measurement/p9.java:262: error: class, interface, enum, or record expected
+            }     // Catch: java.lang.Throwable -> L47
+            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/google/android/gms/internal/measurement/p9.java:313: error: class, interface, enum, or record expected
+    }
+    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/google/android/gms/internal/measurement/p9.java:1: error: unnamed class should not have package declaration
+package com.google.android.gms.internal.measurement;
+^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/appsflyer/internal/AFb1tSDK.java:127: error: invalid method declaration; return type required
+                    public AnonymousClass5(Class cls3, AFa1tSDK aFa1uSDK2) {
+                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/withpersona/sdk2/inquiry/network/dto/government_id/Id.java:34: error: <identifier> expected
+    private final String class;
+                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/withpersona/sdk2/inquiry/network/dto/government_id/Id.java:34: error: <identifier> expected
+    private final String class;
+                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/withpersona/sdk2/inquiry/network/dto/government_id/Id.java:254: error: <identifier> expected
+        this.class = str;
+             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/withpersona/sdk2/inquiry/network/dto/government_id/Id.java:280: error: <identifier> expected
+        return this.class;
+                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/withpersona/sdk2/inquiry/network/dto/government_id/Id.java:319: error: <identifier> expected
+        return Intrinsics.c(this.class, id2.class) && Intrinsics.c(this.requiresSides, id2.requiresSides) && Intrinsics.c(this.icon, id2.icon) && Intrinsics.c(this.capturePageConfigs, id2.capturePageConfigs);
+                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/withpersona/sdk2/inquiry/network/dto/government_id/Id.java:329: error: <identifier> expected
+        return this.class;
+                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/withpersona/sdk2/inquiry/network/dto/government_id/Id.java:343: error: <identifier> expected
+        int hashCode = ((this.class.hashCode() * 31) + this.requiresSides.hashCode()) * 31;
+                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/withpersona/sdk2/inquiry/network/dto/government_id/Id.java:356: error: <identifier> expected
+        return "Id(class=" + this.class + ", requiresSides=" + this.requiresSides + ", icon=" + this.icon + ", capturePageConfigs=" + this.capturePageConfigs + ")";
+                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/withpersona/sdk2/inquiry/network/dto/government_id/Id.java:362: error: <identifier> expected
+        dest.writeString(this.class);
+                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:7: error: integer number too large
+        public static final int inflatedId = 0xffffffff87010000;
+                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:8: error: integer number too large
+        public static final int lottieAnimationViewStyle = 0xffffffff87010001;
+                                                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:9: error: integer number too large
+        public static final int lottie_applyOpacityToLayers = 0xffffffff87010002;
+                                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:10: error: integer number too large
+        public static final int lottie_applyShadowToLayers = 0xffffffff87010003;
+                                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:11: error: integer number too large
+        public static final int lottie_asyncUpdates = 0xffffffff87010004;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:12: error: integer number too large
+        public static final int lottie_autoPlay = 0xffffffff87010005;
+                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:13: error: integer number too large
+        public static final int lottie_cacheComposition = 0xffffffff87010006;
+                                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:14: error: integer number too large
+        public static final int lottie_clipTextToBoundingBox = 0xffffffff87010007;
+                                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:15: error: integer number too large
+        public static final int lottie_clipToCompositionBounds = 0xffffffff87010008;
+                                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:16: error: integer number too large
+        public static final int lottie_colorFilter = 0xffffffff87010009;
+                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:17: error: integer number too large
+        public static final int lottie_defaultFontFileExtension = 0xffffffff8701000a;
+                                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:18: error: integer number too large
+        public static final int lottie_enableMergePathsForKitKatAndAbove = 0xffffffff8701000b;
+                                                                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:19: error: integer number too large
+        public static final int lottie_fallbackRes = 0xffffffff8701000c;
+                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:20: error: integer number too large
+        public static final int lottie_fileName = 0xffffffff8701000d;
+                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:21: error: integer number too large
+        public static final int lottie_ignoreDisabledSystemAnimations = 0xffffffff8701000e;
+                                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:22: error: integer number too large
+        public static final int lottie_imageAssetsFolder = 0xffffffff8701000f;
+                                                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:23: error: integer number too large
+        public static final int lottie_loop = 0xffffffff87010010;
+                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:24: error: integer number too large
+        public static final int lottie_progress = 0xffffffff87010011;
+                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:25: error: integer number too large
+        public static final int lottie_rawRes = 0xffffffff87010012;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:26: error: integer number too large
+        public static final int lottie_renderMode = 0xffffffff87010013;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:27: error: integer number too large
+        public static final int lottie_repeatCount = 0xffffffff87010014;
+                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:28: error: integer number too large
+        public static final int lottie_repeatMode = 0xffffffff87010015;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:29: error: integer number too large
+        public static final int lottie_speed = 0xffffffff87010016;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:30: error: integer number too large
+        public static final int lottie_url = 0xffffffff87010017;
+                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:31: error: integer number too large
+        public static final int lottie_useCompositionFrameRate = 0xffffffff87010018;
+                                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:32: error: integer number too large
+        public static final int pi2BackButtonIcon = 0xffffffff87010019;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:33: error: integer number too large
+        public static final int pi2CancelButtonIcon = 0xffffffff8701001a;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:34: error: integer number too large
+        public static final int pi2CircleSize = 0xffffffff8701001b;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:35: error: integer number too large
+        public static final int pi2DotsColor = 0xffffffff8701001c;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:36: error: integer number too large
+        public static final int pi2EqualDotsSize = 0xffffffff8701001d;
+                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:37: error: integer number too large
+        public static final int pi2InnerCircleSize = 0xffffffff8701001e;
+                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:38: error: integer number too large
+        public static final int pi2MaskColor = 0xffffffff8701001f;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:39: error: integer number too large
+        public static final int pi2Progress = 0xffffffff87010020;
+                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:40: error: integer number too large
+        public static final int pi2Radius = 0xffffffff87010021;
+                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:41: error: integer number too large
+        public static final int pi2SelectedDotColor = 0xffffffff87010022;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:42: error: integer number too large
+        public static final int pi2SpaceBetweenDotsDp = 0xffffffff87010023;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:43: error: integer number too large
+        public static final int pi2StartAngle = 0xffffffff87010024;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:44: error: integer number too large
+        public static final int pi2StrokeColor_res_0x87010025 = 0xffffffff87010025;
+                                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:45: error: integer number too large
+        public static final int pi2StrokeWidth_res_0x87010026 = 0xffffffff87010026;
+                                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:46: error: integer number too large
+        public static final int pi2Target = 0xffffffff87010027;
+                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:47: error: integer number too large
+        public static final int pi2TroubleshootingTipsIcon = 0xffffffff87010028;
+                                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:48: error: integer number too large
+        public static final int updatesVisibility = 0xffffffff87010029;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:1374: error: integer number too large
+        public static final int cameraHintMessageColor = 0xffffffff87020000;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:1375: error: integer number too large
+        public static final int cameraHintTitleColor = 0xffffffff87020001;
+                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:1376: error: integer number too large
+        public static final int cameraPreviewMaskColor = 0xffffffff87020002;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:1377: error: integer number too large
+        public static final int cameraReviewMaskColor = 0xffffffff87020003;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:1378: error: integer number too large
+        public static final int pi2_camera_hint_message_color = 0xffffffff87020004;
+                                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:1379: error: integer number too large
+        public static final int pi2_camera_hint_title_color = 0xffffffff87020005;
+                                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:1380: error: integer number too large
+        public static final int pi2_camera_preview_mask_color = 0xffffffff87020006;
+                                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:1381: error: integer number too large
+        public static final int pi2_color_primary_30_alpha = 0xffffffff87020007;
+                                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:1382: error: integer number too large
+        public static final int pi2_dots_tab_indicator = 0xffffffff87020008;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:1383: error: integer number too large
+        public static final int pi2_dots_tab_indicator_fog_700 = 0xffffffff87020009;
+                                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:1384: error: integer number too large
+        public static final int pi2_help_sheet_line_separator = 0xffffffff8702000a;
+                                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:2243: error: integer number too large
+        public static final int bottomMargin = 0xffffffff87030000;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:2244: error: integer number too large
+        public static final int constraintWidthMax = 0xffffffff87030001;
+                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:2245: error: integer number too large
+        public static final int pi2_governmentid_buttons_min_margin = 0xffffffff87030002;
+                                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:2246: error: integer number too large
+        public static final int pi2_governmentid_capture_button_bottom_margin = 0xffffffff87030003;
+                                                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:2247: error: integer number too large
+        public static final int pi2_governmentid_overlay_hint_height = 0xffffffff87030004;
+                                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:2248: error: integer number too large
+        public static final int pi2_navigation_bar_height = 0xffffffff87030005;
+                                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:2249: error: integer number too large
+        public static final int pi2_navigation_bar_icon_size = 0xffffffff87030006;
+                                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:2250: error: integer number too large
+        public static final int pi2_navigation_bar_padding = 0xffffffff87030007;
+                                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:2251: error: integer number too large
+        public static final int pi2_passport_nfc_image_preview_height = 0xffffffff87030008;
+                                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:2252: error: integer number too large
+        public static final int pi2_preview_horizontal_margin = 0xffffffff87030009;
+                                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:2253: error: integer number too large
+        public static final int pi2_review_captures_min_column_width = 0xffffffff8703000a;
+                                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:2254: error: integer number too large
+        public static final int pi2_vertical_margin = 0xffffffff8703000b;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:2255: error: integer number too large
+        public static final int spinnerBorder = 0xffffffff8703000c;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:2256: error: integer number too large
+        public static final int startEndMargin = 0xffffffff8703000d;
+                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:2257: error: integer number too large
+        public static final int ui_spinner_dropdown_item_padding = 0xffffffff8703000e;
+                                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3103: error: integer number too large
+        public static final int _pi2_google_wallet_logo__0_res_0x87040000 = 0xffffffff87040000;
+                                                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3104: error: integer number too large
+        public static final int p2_option_check_icon = 0xffffffff87040001;
+                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3105: error: integer number too large
+        public static final int p2_option_chevron_icon = 0xffffffff87040002;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3106: error: integer number too large
+        public static final int p2_option_flag_icon = 0xffffffff87040003;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3107: error: integer number too large
+        public static final int p2_option_globe_icon = 0xffffffff87040004;
+                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3108: error: integer number too large
+        public static final int p2_option_home_icon = 0xffffffff87040005;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3109: error: integer number too large
+        public static final int p2_option_id_document_icon = 0xffffffff87040006;
+                                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3110: error: integer number too large
+        public static final int p2_option_id_icon = 0xffffffff87040007;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3111: error: integer number too large
+        public static final int p2_option_phone_icon = 0xffffffff87040008;
+                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3112: error: integer number too large
+        public static final int p2_option_user_icon = 0xffffffff87040009;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3113: error: integer number too large
+        public static final int pi2_alert_icon = 0xffffffff8704000a;
+                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3114: error: integer number too large
+        public static final int pi2_bottom_sheet = 0xffffffff8704000b;
+                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3115: error: integer number too large
+        public static final int pi2_camera_button_disabled = 0xffffffff8704000c;
+                                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3116: error: integer number too large
+        public static final int pi2_camera_button_enabled = 0xffffffff8704000d;
+                                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3117: error: integer number too large
+        public static final int pi2_camera_button_icon = 0xffffffff8704000e;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3118: error: integer number too large
+        public static final int pi2_camera_button_light = 0xffffffff8704000f;
+                                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3119: error: integer number too large
+        public static final int pi2_camera_close_icon = 0xffffffff87040010;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3120: error: integer number too large
+        public static final int pi2_camera_icon_back = 0xffffffff87040011;
+                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3121: error: integer number too large
+        public static final int pi2_camera_light_off = 0xffffffff87040012;
+                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3122: error: integer number too large
+        public static final int pi2_camera_light_on = 0xffffffff87040013;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3123: error: integer number too large
+        public static final int pi2_camera_shutter_button = 0xffffffff87040014;
+                                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3124: error: integer number too large
+        public static final int pi2_camera_shutter_button_disabled = 0xffffffff87040015;
+                                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3125: error: integer number too large
+        public static final int pi2_camera_shutter_button_enabled = 0xffffffff87040016;
+                                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3126: error: integer number too large
+        public static final int pi2_camera_torch_button = 0xffffffff87040017;
+                                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3127: error: integer number too large
+        public static final int pi2_camera_torch_disabled = 0xffffffff87040018;
+                                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3128: error: integer number too large
+        public static final int pi2_camera_torch_enabled = 0xffffffff87040019;
+                                                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3129: error: integer number too large
+        public static final int pi2_capture_success_bg = 0xffffffff8704001a;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3130: error: integer number too large
+        public static final int pi2_countdown_oval = 0xffffffff8704001b;
+                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3131: error: integer number too large
+        public static final int pi2_create_persona_cta_card_icon = 0xffffffff8704001c;
+                                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3132: error: integer number too large
+        public static final int pi2_default_failed = 0xffffffff8704001d;
+                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3133: error: integer number too large
+        public static final int pi2_document_failed = 0xffffffff8704001e;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3134: error: integer number too large
+        public static final int pi2_document_start_hero = 0xffffffff8704001f;
+                                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3135: error: integer number too large
+        public static final int pi2_dropdown_arrow = 0xffffffff87040020;
+                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3136: error: integer number too large
+        public static final int pi2_edit_icon = 0xffffffff87040021;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3137: error: integer number too large
+        public static final int pi2_footer_sheet = 0xffffffff87040022;
+                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3138: error: integer number too large
+        public static final int pi2_google_wallet_button_bg = 0xffffffff87040023;
+                                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3139: error: integer number too large
+        public static final int pi2_google_wallet_logo = 0xffffffff87040024;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3140: error: integer number too large
+        public static final int pi2_google_wallet_text_logo = 0xffffffff87040025;
+                                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3141: error: integer number too large
+        public static final int pi2_governmentid_barcode_idguide = 0xffffffff87040026;
+                                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3142: error: integer number too large
+        public static final int pi2_governmentid_blank = 0xffffffff87040027;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3143: error: integer number too large
+        public static final int pi2_governmentid_cameraicon = 0xffffffff87040028;
+                                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3144: error: integer number too large
+        public static final int pi2_governmentid_card = 0xffffffff87040029;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3145: error: integer number too large
+        public static final int pi2_governmentid_chevron_right = 0xffffffff8704002a;
+                                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3146: error: integer number too large
+        public static final int pi2_governmentid_circle_background = 0xffffffff8704002b;
+                                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3147: error: integer number too large
+        public static final int pi2_governmentid_corners_only = 0xffffffff8704002c;
+                                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3148: error: integer number too large
+        public static final int pi2_governmentid_face_with_text = 0xffffffff8704002d;
+                                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3149: error: integer number too large
+        public static final int pi2_governmentid_flag = 0xffffffff8704002e;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3150: error: integer number too large
+        public static final int pi2_governmentid_front_green = 0xffffffff8704002f;
+                                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3151: error: integer number too large
+        public static final int pi2_governmentid_hero = 0xffffffff87040030;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3152: error: integer number too large
+        public static final int pi2_governmentid_house = 0xffffffff87040031;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3153: error: integer number too large
+        public static final int pi2_governmentid_passport_idguide = 0xffffffff87040032;
+                                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3154: error: integer number too large
+        public static final int pi2_governmentid_world = 0xffffffff87040033;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3155: error: integer number too large
+        public static final int pi2_hint_background = 0xffffffff87040034;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3156: error: integer number too large
+        public static final int pi2_ic_camera_autocapture_off = 0xffffffff87040035;
+                                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3157: error: integer number too large
+        public static final int pi2_ic_camera_autocapture_on = 0xffffffff87040036;
+                                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3158: error: integer number too large
+        public static final int pi2_ic_check = 0xffffffff87040037;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3159: error: integer number too large
+        public static final int pi2_ic_check_mark = 0xffffffff87040038;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3160: error: integer number too large
+        public static final int pi2_ic_file_pdf = 0xffffffff87040039;
+                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3161: error: integer number too large
+        public static final int pi2_ic_rotate = 0xffffffff8704003a;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3162: error: integer number too large
+        public static final int pi2_ic_selfie_left = 0xffffffff8704003b;
+                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3163: error: integer number too large
+        public static final int pi2_ic_selfie_right = 0xffffffff8704003c;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3164: error: integer number too large
+        public static final int pi2_id_back_fail = 0xffffffff8704003d;
+                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3165: error: integer number too large
+        public static final int pi2_id_front_fail = 0xffffffff8704003e;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3166: error: integer number too large
+        public static final int pi2_info_icon = 0xffffffff8704003f;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3167: error: integer number too large
+        public static final int pi2_inquiry_failed = 0xffffffff87040040;
+                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3168: error: integer number too large
+        public static final int pi2_inquiry_initializing_spinner = 0xffffffff87040041;
+                                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3169: error: integer number too large
+        public static final int pi2_inquiry_start_hero = 0xffffffff87040042;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3170: error: integer number too large
+        public static final int pi2_lock_icon = 0xffffffff87040043;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3171: error: integer number too large
+        public static final int pi2_material_ic_calendar = 0xffffffff87040044;
+                                                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3172: error: integer number too large
+        public static final int pi2_material_ic_visibility_off = 0xffffffff87040045;
+                                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3173: error: integer number too large
+        public static final int pi2_material_ic_visibility_on = 0xffffffff87040046;
+                                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3174: error: integer number too large
+        public static final int pi2_passport_closed = 0xffffffff87040047;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3175: error: integer number too large
+        public static final int pi2_passport_nfc_start_hero = 0xffffffff87040048;
+                                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3176: error: integer number too large
+        public static final int pi2_passport_open = 0xffffffff87040049;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3177: error: integer number too large
+        public static final int pi2_reusable_persona_logo = 0xffffffff8704004a;
+                                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3178: error: integer number too large
+        public static final int pi2_rounded_outline = 0xffffffff8704004b;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3179: error: integer number too large
+        public static final int pi2_rounded_rectangle = 0xffffffff8704004c;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3180: error: integer number too large
+        public static final int pi2_sandbox_fab = 0xffffffff8704004d;
+                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3181: error: integer number too large
+        public static final int pi2_sandbox_options_dialog_bg = 0xffffffff8704004e;
+                                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3182: error: integer number too large
+        public static final int pi2_selector = 0xffffffff8704004f;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3183: error: integer number too large
+        public static final int pi2_selfie_fail = 0xffffffff87040050;
+                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3184: error: integer number too large
+        public static final int pi2_shared_arrow_back_16 = 0xffffffff87040051;
+                                                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3185: error: integer number too large
+        public static final int pi2_shared_arrow_back_24 = 0xffffffff87040052;
+                                                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3186: error: integer number too large
+        public static final int pi2_shared_close_icon = 0xffffffff87040053;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3187: error: integer number too large
+        public static final int pi2_shared_troubleshooting_tips_icon = 0xffffffff87040054;
+                                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3188: error: integer number too large
+        public static final int pi2_shutter_button = 0xffffffff87040055;
+                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3189: error: integer number too large
+        public static final int pi2_ui_loading_spinner = 0xffffffff87040056;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3190: error: integer number too large
+        public static final int pi2_watermark_background = 0xffffffff87040057;
+                                                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3528: error: integer number too large
+        public static final int accept_button = 0xffffffff87050000;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3529: error: integer number too large
+        public static final int action_button = 0xffffffff87050001;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3530: error: integer number too large
+        public static final int add_button = 0xffffffff87050002;
+                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3531: error: integer number too large
+        public static final int add_signature_label = 0xffffffff87050003;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3532: error: integer number too large
+        public static final int address_city = 0xffffffff87050004;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3533: error: integer number too large
+        public static final int address_expand_components_button = 0xffffffff87050005;
+                                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3534: error: integer number too large
+        public static final int address_field_collapsed = 0xffffffff87050006;
+                                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3535: error: integer number too large
+        public static final int address_field_collapsed_text_view = 0xffffffff87050007;
+                                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3536: error: integer number too large
+        public static final int address_field_expanded = 0xffffffff87050008;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3537: error: integer number too large
+        public static final int address_field_expanded_text_view = 0xffffffff87050009;
+                                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3538: error: integer number too large
+        public static final int address_fields = 0xffffffff8705000a;
+                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3539: error: integer number too large
+        public static final int address_fields_collapsed = 0xffffffff8705000b;
+                                                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3540: error: integer number too large
+        public static final int address_fields_expanded = 0xffffffff8705000c;
+                                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3541: error: integer number too large
+        public static final int address_label = 0xffffffff8705000d;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3542: error: integer number too large
+        public static final int address_postal_code = 0xffffffff8705000e;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3543: error: integer number too large
+        public static final int address_subdivision = 0xffffffff8705000f;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3544: error: integer number too large
+        public static final int address_suite = 0xffffffff87050010;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3545: error: integer number too large
+        public static final int animation_container = 0xffffffff87050011;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3546: error: integer number too large
+        public static final int animations_played = 0xffffffff87050012;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3547: error: integer number too large
+        public static final int animationview_inquiry_initializingspinner = 0xffffffff87050013;
+                                                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3548: error: integer number too large
+        public static final int auto_capture_disclaimer = 0xffffffff87050014;
+                                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3549: error: integer number too large
+        public static final int auto_capture_progress_bar = 0xffffffff87050015;
+                                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3550: error: integer number too large
+        public static final int automatic = 0xffffffff87050016;
+                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3551: error: integer number too large
+        public static final int back_stack_body = 0xffffffff87050017;
+                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3552: error: integer number too large
+        public static final int blinds_view = 0xffffffff87050018;
+                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3553: error: integer number too large
+        public static final int body = 0xffffffff87050019;
+                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3554: error: integer number too large
+        public static final int bottom_guideline = 0xffffffff8705001a;
+                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3555: error: integer number too large
+        public static final int bottom_inset = 0xffffffff8705001b;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3556: error: integer number too large
+        public static final int bottom_sheet = 0xffffffff8705001c;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3557: error: integer number too large
+        public static final int bottom_sheet_content = 0xffffffff8705001d;
+                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3558: error: integer number too large
+        public static final int bottom_space = 0xffffffff8705001e;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3559: error: integer number too large
+        public static final int bottom_spacer = 0xffffffff8705001f;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3560: error: integer number too large
+        public static final int button = 0xffffffff87050020;
+                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3561: error: integer number too large
+        public static final int camera2_preview = 0xffffffff87050021;
+                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3562: error: integer number too large
+        public static final int camera_button = 0xffffffff87050022;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3563: error: integer number too large
+        public static final int camera_cover = 0xffffffff87050023;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3564: error: integer number too large
+        public static final int camera_initializing_progress_bar = 0xffffffff87050024;
+                                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3565: error: integer number too large
+        public static final int camera_screen_content = 0xffffffff87050025;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3566: error: integer number too large
+        public static final int camera_view = 0xffffffff87050026;
+                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3567: error: integer number too large
+        public static final int capture_button = 0xffffffff87050027;
+                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3568: error: integer number too large
+        public static final int capture_button_spacer = 0xffffffff87050028;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3569: error: integer number too large
+        public static final int capture_success = 0xffffffff87050029;
+                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3570: error: integer number too large
+        public static final int capture_tips = 0xffffffff8705002a;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3571: error: integer number too large
+        public static final int card_view = 0xffffffff8705002b;
+                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3572: error: integer number too large
+        public static final int checkbox_res_0x8705002c = 0xffffffff8705002c;
+                                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3573: error: integer number too large
+        public static final int checkbox_description = 0xffffffff8705002d;
+                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3574: error: integer number too large
+        public static final int checkbox_error = 0xffffffff8705002e;
+                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3575: error: integer number too large
+        public static final int checkbox_group_container = 0xffffffff8705002f;
+                                                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3576: error: integer number too large
+        public static final int checkbox_group_error = 0xffffffff87050030;
+                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3577: error: integer number too large
+        public static final int checkbox_group_label = 0xffffffff87050031;
+                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3578: error: integer number too large
+        public static final int checkbox_label = 0xffffffff87050032;
+                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3579: error: integer number too large
+        public static final int chevron = 0xffffffff87050033;
+                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3580: error: integer number too large
+        public static final int child = 0xffffffff87050034;
+                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3581: error: integer number too large
+        public static final int child_stub = 0xffffffff87050035;
+                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3582: error: integer number too large
+        public static final int choose_file_button = 0xffffffff87050036;
+                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3583: error: integer number too large
+        public static final int choose_new_photo_button = 0xffffffff87050037;
+                                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3584: error: integer number too large
+        public static final int chosen_files_list = 0xffffffff87050038;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3585: error: integer number too large
+        public static final int circle_mask = 0xffffffff87050039;
+                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3586: error: integer number too large
+        public static final int clear_button = 0xffffffff8705003a;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3587: error: integer number too large
+        public static final int close_button = 0xffffffff8705003b;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3588: error: integer number too large
+        public static final int close_signature_sheet_button = 0xffffffff8705003c;
+                                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3589: error: integer number too large
+        public static final int container_res_0x8705003d = 0xffffffff8705003d;
+                                                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3590: error: integer number too large
+        public static final int content_res_0x8705003e = 0xffffffff8705003e;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3591: error: integer number too large
+        public static final int content_container_res_0x8705003f = 0xffffffff8705003f;
+                                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3592: error: integer number too large
+        public static final int content_scroll_view = 0xffffffff87050040;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3593: error: integer number too large
+        public static final int content_view = 0xffffffff87050041;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3594: error: integer number too large
+        public static final int continue_button = 0xffffffff87050042;
+                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3595: error: integer number too large
+        public static final int countdown = 0xffffffff87050043;
+                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3596: error: integer number too large
+        public static final int country_selector = 0xffffffff87050044;
+                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3597: error: integer number too large
+        public static final int country_selector_text = 0xffffffff87050045;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3598: error: integer number too large
+        public static final int cover = 0xffffffff87050046;
+                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3599: error: integer number too large
+        public static final int date_label = 0xffffffff87050047;
+                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3600: error: integer number too large
+        public static final int day = 0xffffffff87050048;
+                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3601: error: integer number too large
+        public static final int day_edit_text = 0xffffffff87050049;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3602: error: integer number too large
+        public static final int description = 0xffffffff8705004a;
+                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3603: error: integer number too large
+        public static final int disabled = 0xffffffff8705004b;
+                                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3604: error: integer number too large
+        public static final int disclaimer = 0xffffffff8705004c;
+                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3605: error: integer number too large
+        public static final int disclaimer_icon = 0xffffffff8705004d;
+                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3606: error: integer number too large
+        public static final int disclaimer_layout = 0xffffffff8705004e;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3607: error: integer number too large
+        public static final int disclaimer_view = 0xffffffff8705004f;
+                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3608: error: integer number too large
+        public static final int dots_indicator = 0xffffffff87050050;
+                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3609: error: integer number too large
+        public static final int edit_signature_icon = 0xffffffff87050051;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3610: error: integer number too large
+        public static final int edit_text = 0xffffffff87050052;
+                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3611: error: integer number too large
+        public static final int edit_text_city = 0xffffffff87050053;
+                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3612: error: integer number too large
+        public static final int edit_text_postal_code = 0xffffffff87050054;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3613: error: integer number too large
+        public static final int edit_text_subdivision = 0xffffffff87050055;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3614: error: integer number too large
+        public static final int edit_text_suite = 0xffffffff87050056;
+                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3615: error: integer number too large
+        public static final int enabled = 0xffffffff87050057;
+                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3616: error: integer number too large
+        public static final int end_guideline = 0xffffffff87050058;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3617: error: integer number too large
+        public static final int error_label = 0xffffffff87050059;
+                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3618: error: integer number too large
+        public static final int error_text = 0xffffffff8705005a;
+                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3619: error: integer number too large
+        public static final int expand_search_bar = 0xffffffff8705005b;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3620: error: integer number too large
+        public static final int file_icon = 0xffffffff8705005c;
+                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3621: error: integer number too large
+        public static final int file_name_textview = 0xffffffff8705005d;
+                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3622: error: integer number too large
+        public static final int filename_view = 0xffffffff8705005e;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3623: error: integer number too large
+        public static final int finalizing_cover = 0xffffffff8705005f;
+                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3624: error: integer number too large
+        public static final int first = 0xffffffff87050060;
+                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3625: error: integer number too large
+        public static final int first_edit_text = 0xffffffff87050061;
+                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3626: error: integer number too large
+        public static final int flash_screen = 0xffffffff87050062;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3627: error: integer number too large
+        public static final int flashlight_toggle = 0xffffffff87050063;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3628: error: integer number too large
+        public static final int floating_action_button = 0xffffffff87050064;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3629: error: integer number too large
+        public static final int flow_layout = 0xffffffff87050065;
+                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3630: error: integer number too large
+        public static final int footer = 0xffffffff87050066;
+                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3631: error: integer number too large
+        public static final int footer_begin_margin = 0xffffffff87050067;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3632: error: integer number too large
+        public static final int footer_container = 0xffffffff87050068;
+                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3633: error: integer number too large
+        public static final int footer_container_inner = 0xffffffff87050069;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3634: error: integer number too large
+        public static final int footer_divider = 0xffffffff8705006a;
+                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3635: error: integer number too large
+        public static final int footer_end_margin = 0xffffffff8705006b;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3636: error: integer number too large
+        public static final int footer_sheet = 0xffffffff8705006c;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3637: error: integer number too large
+        public static final int footer_sheet_coordinator_layout = 0xffffffff8705006d;
+                                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3638: error: integer number too large
+        public static final int footer_sheet_grabber = 0xffffffff8705006e;
+                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3639: error: integer number too large
+        public static final int footer_sheet_rectangle = 0xffffffff8705006f;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3640: error: integer number too large
+        public static final int footer_sheet_scroll_view = 0xffffffff87050070;
+                                                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3641: error: integer number too large
+        public static final int fourth = 0xffffffff87050071;
+                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3642: error: integer number too large
+        public static final int fragment_container = 0xffffffff87050072;
+                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3643: error: integer number too large
+        public static final int fragment_container_view = 0xffffffff87050073;
+                                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3644: error: integer number too large
+        public static final int fragment_content = 0xffffffff87050074;
+                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3645: error: integer number too large
+        public static final int gov_id_nfc_switch = 0xffffffff87050075;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3646: error: integer number too large
+        public static final int governmentid_header_bottom_barrier = 0xffffffff87050076;
+                                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3647: error: integer number too large
+        public static final int governmentid_header_image_container = 0xffffffff87050077;
+                                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3648: error: integer number too large
+        public static final int hairline = 0xffffffff87050078;
+                                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3649: error: integer number too large
+        public static final int hardware = 0xffffffff87050079;
+                                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3650: error: integer number too large
+        public static final int hint = 0xffffffff8705007a;
+                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3651: error: integer number too large
+        public static final int hintMessage = 0xffffffff8705007b;
+                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3652: error: integer number too large
+        public static final int hintTitle = 0xffffffff8705007c;
+                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3653: error: integer number too large
+        public static final int hint_animation = 0xffffffff8705007d;
+                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3654: error: integer number too large
+        public static final int hint_image = 0xffffffff8705007e;
+                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3655: error: integer number too large
+        public static final int hint_message = 0xffffffff8705007f;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3656: error: integer number too large
+        public static final int hint_message_body = 0xffffffff87050080;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3657: error: integer number too large
+        public static final int hint_message_title = 0xffffffff87050081;
+                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3658: error: integer number too large
+        public static final int hint_overlay_view = 0xffffffff87050082;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3659: error: integer number too large
+        public static final int icon_res_0x87050083 = 0xffffffff87050083;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3660: error: integer number too large
+        public static final int icon_container = 0xffffffff87050084;
+                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3661: error: integer number too large
+        public static final int id_class_selector = 0xffffffff87050085;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3662: error: integer number too large
+        public static final int id_class_selector_text = 0xffffffff87050086;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3663: error: integer number too large
+        public static final int id_image = 0xffffffff87050087;
+                                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3664: error: integer number too large
+        public static final int id_image_container = 0xffffffff87050088;
+                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3665: error: integer number too large
+        public static final int idb_container = 0xffffffff87050089;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3666: error: integer number too large
+        public static final int idb_country_input = 0xffffffff8705008a;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3667: error: integer number too large
+        public static final int idb_country_text_view = 0xffffffff8705008b;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3668: error: integer number too large
+        public static final int idb_description = 0xffffffff8705008c;
+                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3669: error: integer number too large
+        public static final int idb_id_type_input = 0xffffffff8705008d;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3670: error: integer number too large
+        public static final int idb_id_type_text_view = 0xffffffff8705008e;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3671: error: integer number too large
+        public static final int idb_label = 0xffffffff8705008f;
+                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3672: error: integer number too large
+        public static final int idb_value_input = 0xffffffff87050090;
+                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3673: error: integer number too large
+        public static final int idb_value_text_view = 0xffffffff87050091;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3674: error: integer number too large
+        public static final int illustration = 0xffffffff87050092;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3675: error: integer number too large
+        public static final int illustration_container = 0xffffffff87050093;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3676: error: integer number too large
+        public static final int image_res_0x87050094 = 0xffffffff87050094;
+                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3677: error: integer number too large
+        public static final int image_overlay_view = 0xffffffff87050095;
+                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3678: error: integer number too large
+        public static final int image_view = 0xffffffff87050096;
+                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3679: error: integer number too large
+        public static final int image_view_container = 0xffffffff87050097;
+                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3680: error: integer number too large
+        public static final int imageview_close_input_select_sheet = 0xffffffff87050098;
+                                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3681: error: integer number too large
+        public static final int imageview_governmentid_header_image = 0xffffffff87050099;
+                                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3682: error: integer number too large
+        public static final int imageview_selfie_header_image = 0xffffffff8705009a;
+                                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3683: error: integer number too large
+        public static final int initializing_progress_bar = 0xffffffff8705009b;
+                                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3684: error: integer number too large
+        public static final int inner_content = 0xffffffff8705009c;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3685: error: integer number too large
+        public static final int inner_content_view = 0xffffffff8705009d;
+                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3686: error: integer number too large
+        public static final int inputLayout = 0xffffffff8705009e;
+                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3687: error: integer number too large
+        public static final int input_layout = 0xffffffff8705009f;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3688: error: integer number too large
+        public static final int input_select_shadow = 0xffffffff870500a0;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3689: error: integer number too large
+        public static final int instruction_animation = 0xffffffff870500a1;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3690: error: integer number too large
+        public static final int label = 0xffffffff870500a2;
+                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3691: error: integer number too large
+        public static final int label_text = 0xffffffff870500a3;
+                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3692: error: integer number too large
+        public static final int leading_image_container = 0xffffffff870500a4;
+                                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3693: error: integer number too large
+        public static final int list_content = 0xffffffff870500a5;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3694: error: integer number too large
+        public static final int list_content_separator = 0xffffffff870500a6;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3695: error: integer number too large
+        public static final int list_divider = 0xffffffff870500a7;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3696: error: integer number too large
+        public static final int list_selector = 0xffffffff870500a8;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3697: error: integer number too large
+        public static final int loading_animation = 0xffffffff870500a9;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3698: error: integer number too large
+        public static final int local_image = 0xffffffff870500aa;
+                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3699: error: integer number too large
+        public static final int lottie_layer_name = 0xffffffff870500ab;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3700: error: integer number too large
+        public static final int lottie_view = 0xffffffff870500ac;
+                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3701: error: integer number too large
+        public static final int markwon_drawables_scheduler = 0xffffffff870500ad;
+                                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3702: error: integer number too large
+        public static final int markwon_drawables_scheduler_last_text_hashcode = 0xffffffff870500ae;
+                                                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3703: error: integer number too large
+        public static final int message_res_0x870500af = 0xffffffff870500af;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3704: error: integer number too large
+        public static final int month = 0xffffffff870500b0;
+                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3705: error: integer number too large
+        public static final int month_edit_text = 0xffffffff870500b1;
+                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3706: error: integer number too large
+        public static final int nav_bar_back_button = 0xffffffff870500b2;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3707: error: integer number too large
+        public static final int nav_bar_cancel_button = 0xffffffff870500b3;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3708: error: integer number too large
+        public static final int nav_bar_help_button = 0xffffffff870500b4;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3709: error: integer number too large
+        public static final int nav_bar_title = 0xffffffff870500b5;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3710: error: integer number too large
+        public static final int navigation_bar = 0xffffffff870500b6;
+                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3711: error: integer number too large
+        public static final int negative_button = 0xffffffff870500b7;
+                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3712: error: integer number too large
+        public static final int nestedScroll = 0xffffffff870500b8;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3713: error: integer number too large
+        public static final int nested_ui_container = 0xffffffff870500b9;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3714: error: integer number too large
+        public static final int next_camera = 0xffffffff870500ba;
+                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3715: error: integer number too large
+        public static final int overlay = 0xffffffff870500bb;
+                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3716: error: integer number too large
+        public static final int overlay_guide = 0xffffffff870500bc;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3717: error: integer number too large
+        public static final int overlay_hint = 0xffffffff870500bd;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3718: error: integer number too large
+        public static final int overlay_icon = 0xffffffff870500be;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3719: error: integer number too large
+        public static final int overlay_icon_container = 0xffffffff870500bf;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3720: error: integer number too large
+        public static final int overlay_text = 0xffffffff870500c0;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3721: error: integer number too large
+        public static final int overline = 0xffffffff870500c1;
+                                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3722: error: integer number too large
+        public static final int pending_animation = 0xffffffff870500c2;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3723: error: integer number too large
+        public static final int permissions_request_container_view = 0xffffffff870500c3;
+                                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3724: error: integer number too large
+        public static final int pi2_back_stack_screen_runner = 0xffffffff870500c4;
+                                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3725: error: integer number too large
+        public static final int pi2_background_color_hint = 0xffffffff870500c5;
+                                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3726: error: integer number too large
+        public static final int pi2_current_content_view = 0xffffffff870500c6;
+                                                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3727: error: integer number too large
+        public static final int pi2_current_state = 0xffffffff870500c7;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3728: error: integer number too large
+        public static final int pi2_disableable_container = 0xffffffff870500c8;
+                                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3729: error: integer number too large
+        public static final int pi2_dummy_package_resource = 0xffffffff870500c9;
+                                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3730: error: integer number too large
+        public static final int pi2_government_id_nfc_scan_can_access_code = 0xffffffff870500ca;
+                                                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3731: error: integer number too large
+        public static final int pi2_government_id_nfc_scan_date_of_birth = 0xffffffff870500cb;
+                                                                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3732: error: integer number too large
+        public static final int pi2_government_id_nfc_scan_document_number = 0xffffffff870500cc;
+                                                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3733: error: integer number too large
+        public static final int pi2_government_id_nfc_scan_error_label = 0xffffffff870500cd;
+                                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3734: error: integer number too large
+        public static final int pi2_government_id_nfc_scan_expiration_date = 0xffffffff870500ce;
+                                                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3735: error: integer number too large
+        public static final int pi2_government_id_nfc_scan_launch_button = 0xffffffff870500cf;
+                                                                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3736: error: integer number too large
+        public static final int pi2_government_id_nfc_scan_tips_button = 0xffffffff870500d0;
+                                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3737: error: integer number too large
+        public static final int pi2_leading_image_disposable = 0xffffffff870500d1;
+                                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3738: error: integer number too large
+        public static final int pi2_leading_image_enforcer = 0xffffffff870500d2;
+                                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3739: error: integer number too large
+        public static final int pi2_leading_image_url = 0xffffffff870500d3;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3740: error: integer number too large
+        public static final int pi2_mask_text_watcher = 0xffffffff870500d4;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3741: error: integer number too large
+        public static final int pi2_modal_container = 0xffffffff870500d5;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3742: error: integer number too large
+        public static final int pi2_nav_bar_back_press_handler = 0xffffffff870500d6;
+                                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3743: error: integer number too large
+        public static final int pi2_remote_image_view = 0xffffffff870500d7;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3744: error: integer number too large
+        public static final int pi2_view_back_press_handler = 0xffffffff870500d8;
+                                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3745: error: integer number too large
+        public static final int positive_button = 0xffffffff870500d9;
+                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3746: error: integer number too large
+        public static final int preview_bottom = 0xffffffff870500da;
+                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3747: error: integer number too large
+        public static final int preview_bottom_barrier = 0xffffffff870500db;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3748: error: integer number too large
+        public static final int preview_container = 0xffffffff870500dc;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3749: error: integer number too large
+        public static final int preview_dim = 0xffffffff870500dd;
+                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3750: error: integer number too large
+        public static final int preview_top = 0xffffffff870500de;
+                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3751: error: integer number too large
+        public static final int preview_view = 0xffffffff870500df;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3752: error: integer number too large
+        public static final int previewview_selfie_camera = 0xffffffff870500e0;
+                                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3753: error: integer number too large
+        public static final int processing = 0xffffffff870500e1;
+                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3754: error: integer number too large
+        public static final int progress_arc = 0xffffffff870500e2;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3755: error: integer number too large
+        public static final int progress_bar = 0xffffffff870500e3;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3756: error: integer number too large
+        public static final int progress_indicator = 0xffffffff870500e4;
+                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3757: error: integer number too large
+        public static final int prompt = 0xffffffff870500e5;
+                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3758: error: integer number too large
+        public static final int radio_button = 0xffffffff870500e6;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3759: error: integer number too large
+        public static final int radio_button_container = 0xffffffff870500e7;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3760: error: integer number too large
+        public static final int radio_button_description = 0xffffffff870500e8;
+                                                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3761: error: integer number too large
+        public static final int radio_button_label = 0xffffffff870500e9;
+                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3762: error: integer number too large
+        public static final int radio_group_error = 0xffffffff870500ea;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3763: error: integer number too large
+        public static final int radio_group_label = 0xffffffff870500eb;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3764: error: integer number too large
+        public static final int real_time_hint = 0xffffffff870500ec;
+                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3765: error: integer number too large
+        public static final int recycler_view = 0xffffffff870500ed;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3766: error: integer number too large
+        public static final int recyclerview_governmentid_idlist = 0xffffffff870500ee;
+                                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3767: error: integer number too large
+        public static final int recyclerview_inquiry_select_list = 0xffffffff870500ef;
+                                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3768: error: integer number too large
+        public static final int remove_button = 0xffffffff870500f0;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3769: error: integer number too large
+        public static final int restart = 0xffffffff870500f1;
+                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3770: error: integer number too large
+        public static final int retake_button = 0xffffffff870500f2;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3771: error: integer number too large
+        public static final int retry_button = 0xffffffff870500f3;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3772: error: integer number too large
+        public static final int reverse = 0xffffffff870500f4;
+                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3773: error: integer number too large
+        public static final int review_image = 0xffffffff870500f5;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3774: error: integer number too large
+        public static final int review_item_list = 0xffffffff870500f6;
+                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3775: error: integer number too large
+        public static final int root_layout = 0xffffffff870500f7;
+                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3776: error: integer number too large
+        public static final int root_view = 0xffffffff870500f8;
+                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3777: error: integer number too large
+        public static final int save_button = 0xffffffff870500f9;
+                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3778: error: integer number too large
+        public static final int scanning_animation = 0xffffffff870500fa;
+                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3779: error: integer number too large
+        public static final int scanning_view = 0xffffffff870500fb;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3780: error: integer number too large
+        public static final int search_bar_edit_text = 0xffffffff870500fc;
+                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3781: error: integer number too large
+        public static final int search_bar_text_input = 0xffffffff870500fd;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3782: error: integer number too large
+        public static final int second = 0xffffffff870500fe;
+                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3783: error: integer number too large
+        public static final int second_edit_text = 0xffffffff870500ff;
+                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3784: error: integer number too large
+        public static final int secondary_action_button = 0xffffffff87050100;
+                                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3785: error: integer number too large
+        public static final int secureInputLayout = 0xffffffff87050101;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3786: error: integer number too large
+        public static final int selfie_capture_disclaimer = 0xffffffff87050102;
+                                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3787: error: integer number too large
+        public static final int selfie_flash = 0xffffffff87050103;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3788: error: integer number too large
+        public static final int selfie_overlay = 0xffffffff87050104;
+                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3789: error: integer number too large
+        public static final int selfie_window = 0xffffffff87050105;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3790: error: integer number too large
+        public static final int shadow = 0xffffffff87050106;
+                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3791: error: integer number too large
+        public static final int signature_canvas = 0xffffffff87050107;
+                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3792: error: integer number too large
+        public static final int signature_container = 0xffffffff87050108;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3793: error: integer number too large
+        public static final int signature_description = 0xffffffff87050109;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3794: error: integer number too large
+        public static final int signature_label = 0xffffffff8705010a;
+                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3795: error: integer number too large
+        public static final int signature_preview = 0xffffffff8705010b;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3796: error: integer number too large
+        public static final int signature_sheet = 0xffffffff8705010c;
+                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3797: error: integer number too large
+        public static final int software = 0xffffffff8705010d;
+                                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3798: error: integer number too large
+        public static final int spotlight = 0xffffffff8705010e;
+                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3799: error: integer number too large
+        public static final int spotlight_view = 0xffffffff8705010f;
+                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3800: error: integer number too large
+        public static final int spotlight_view2 = 0xffffffff87050110;
+                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3801: error: integer number too large
+        public static final int start_button = 0xffffffff87050111;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3802: error: integer number too large
+        public static final int start_guideline = 0xffffffff87050112;
+                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3803: error: integer number too large
+        public static final int static_capture_tips = 0xffffffff87050113;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3804: error: integer number too large
+        public static final int submit_button = 0xffffffff87050114;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3805: error: integer number too large
+        public static final int subtext = 0xffffffff87050115;
+                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3806: error: integer number too large
+        public static final int text_res_0x87050116 = 0xffffffff87050116;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3807: error: integer number too large
+        public static final int text_changed_listener = 0xffffffff87050117;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3808: error: integer number too large
+        public static final int text_controller_rendering = 0xffffffff87050118;
+                                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3809: error: integer number too large
+        public static final int text_view = 0xffffffff87050119;
+                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3810: error: integer number too large
+        public static final int textview_governmentid_instructions_body = 0xffffffff8705011a;
+                                                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3811: error: integer number too large
+        public static final int textview_governmentid_instructions_disclaimer = 0xffffffff8705011b;
+                                                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3812: error: integer number too large
+        public static final int textview_governmentid_instructions_title = 0xffffffff8705011c;
+                                                                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3813: error: integer number too large
+        public static final int textview_governmentid_instructionslistheader = 0xffffffff8705011d;
+                                                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3814: error: integer number too large
+        public static final int textview_input_select = 0xffffffff8705011e;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3815: error: integer number too large
+        public static final int textview_input_select_sheet_title = 0xffffffff8705011f;
+                                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3816: error: integer number too large
+        public static final int textview_selfie_disclosure = 0xffffffff87050120;
+                                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3817: error: integer number too large
+        public static final int textview_selfie_start_body = 0xffffffff87050121;
+                                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3818: error: integer number too large
+        public static final int textview_selfie_start_title = 0xffffffff87050122;
+                                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3819: error: integer number too large
+        public static final int third = 0xffffffff87050123;
+                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3820: error: integer number too large
+        public static final int tint_screen = 0xffffffff87050124;
+                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3821: error: integer number too large
+        public static final int tips = 0xffffffff87050125;
+                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3822: error: integer number too large
+        public static final int tips_container = 0xffffffff87050126;
+                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3823: error: integer number too large
+        public static final int title_res_0x87050127 = 0xffffffff87050127;
+                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3824: error: integer number too large
+        public static final int title_top_space = 0xffffffff87050128;
+                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3825: error: integer number too large
+        public static final int toggle_flash = 0xffffffff87050129;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3826: error: integer number too large
+        public static final int toolbar_res_0x8705012a = 0xffffffff8705012a;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3827: error: integer number too large
+        public static final int top_app_bar = 0xffffffff8705012b;
+                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3828: error: integer number too large
+        public static final int top_barrier = 0xffffffff8705012c;
+                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3829: error: integer number too large
+        public static final int top_guideline = 0xffffffff8705012d;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3830: error: integer number too large
+        public static final int top_space = 0xffffffff8705012e;
+                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3831: error: integer number too large
+        public static final int top_spacer = 0xffffffff8705012f;
+                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3832: error: integer number too large
+        public static final int ui_spinner_item_selected_listener = 0xffffffff87050130;
+                                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3833: error: integer number too large
+        public static final int ui_step_container = 0xffffffff87050131;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3834: error: integer number too large
+        public static final int upload_button = 0xffffffff87050132;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3835: error: integer number too large
+        public static final int use_photo_button = 0xffffffff87050133;
+                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3836: error: integer number too large
+        public static final int use_photos_button = 0xffffffff87050134;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3837: error: integer number too large
+        public static final int view_attached_coroutine_scope = 0xffffffff87050135;
+                                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3838: error: integer number too large
+        public static final int view_back_handler = 0xffffffff87050136;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3839: error: integer number too large
+        public static final int view_container = 0xffffffff87050137;
+                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3840: error: integer number too large
+        public static final int view_pager = 0xffffffff87050138;
+                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3841: error: integer number too large
+        public static final int view_stack = 0xffffffff87050139;
+                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3842: error: integer number too large
+        public static final int view_text_changed_listener = 0xffffffff8705013a;
+                                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3843: error: integer number too large
+        public static final int watermark = 0xffffffff8705013b;
+                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3844: error: integer number too large
+        public static final int workflow_alert_container = 0xffffffff8705013c;
+                                                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3845: error: integer number too large
+        public static final int workflow_back_stack_container = 0xffffffff8705013d;
+                                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3846: error: integer number too large
+        public static final int workflow_back_stack_key = 0xffffffff8705013e;
+                                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3847: error: integer number too large
+        public static final int workflow_layout = 0xffffffff8705013f;
+                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3848: error: integer number too large
+        public static final int workflow_ui_view_state = 0xffffffff87050140;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3849: error: integer number too large
+        public static final int year = 0xffffffff87050141;
+                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:3850: error: integer number too large
+        public static final int year_edit_text = 0xffffffff87050142;
+                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4565: error: integer number too large
+        public static final int pi2_transition_animation_duration = 0xffffffff87060000;
+                                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4566: error: integer number too large
+        public static final int pi2_transition_animation_duration_milliseconds = 0xffffffff87060001;
+                                                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4644: error: integer number too large
+        public static final int pi2_camera_preview = 0xffffffff87070000;
+                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4645: error: integer number too large
+        public static final int pi2_cancel_modal = 0xffffffff87070001;
+                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4646: error: integer number too large
+        public static final int pi2_check_request_permission_rationale_state = 0xffffffff87070002;
+                                                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4647: error: integer number too large
+        public static final int pi2_disableable_container = 0xffffffff87070003;
+                                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4648: error: integer number too large
+        public static final int pi2_document_loading = 0xffffffff87070004;
+                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4649: error: integer number too large
+        public static final int pi2_document_review = 0xffffffff87070005;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4650: error: integer number too large
+        public static final int pi2_document_review_add_document_tile = 0xffffffff87070006;
+                                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4651: error: integer number too large
+        public static final int pi2_document_review_document_tile = 0xffffffff87070007;
+                                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4652: error: integer number too large
+        public static final int pi2_error = 0xffffffff87070008;
+                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4653: error: integer number too large
+        public static final int pi2_fragment_document_step = 0xffffffff87070009;
+                                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4654: error: integer number too large
+        public static final int pi2_fragment_permission_request = 0xffffffff8707000a;
+                                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4655: error: integer number too large
+        public static final int pi2_fragment_workflow = 0xffffffff8707000b;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4656: error: integer number too large
+        public static final int pi2_fragment_workflow_step = 0xffffffff8707000c;
+                                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4657: error: integer number too large
+        public static final int pi2_generic_ui_step_bottom_sheet = 0xffffffff8707000d;
+                                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4658: error: integer number too large
+        public static final int pi2_generic_ui_step_screen = 0xffffffff8707000e;
+                                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4659: error: integer number too large
+        public static final int pi2_governmentid_camera = 0xffffffff8707000f;
+                                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4660: error: integer number too large
+        public static final int pi2_governmentid_capture_tips = 0xffffffff87070010;
+                                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4661: error: integer number too large
+        public static final int pi2_governmentid_choose_capture_method = 0xffffffff87070011;
+                                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4662: error: integer number too large
+        public static final int pi2_governmentid_fragment = 0xffffffff87070012;
+                                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4663: error: integer number too large
+        public static final int pi2_governmentid_idlist = 0xffffffff87070013;
+                                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4664: error: integer number too large
+        public static final int pi2_governmentid_instructions = 0xffffffff87070014;
+                                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4665: error: integer number too large
+        public static final int pi2_governmentid_restart_step = 0xffffffff87070015;
+                                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4666: error: integer number too large
+        public static final int pi2_governmentid_review = 0xffffffff87070016;
+                                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4667: error: integer number too large
+        public static final int pi2_governmentid_review_low_space = 0xffffffff87070017;
+                                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4668: error: integer number too large
+        public static final int pi2_governmentid_review_selected_image = 0xffffffff87070018;
+                                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4669: error: integer number too large
+        public static final int pi2_governmentid_select_country_and_id_class = 0xffffffff87070019;
+                                                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4670: error: integer number too large
+        public static final int pi2_governmentid_static_capture_tips = 0xffffffff8707001a;
+                                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4671: error: integer number too large
+        public static final int pi2_governmentid_submitting_screen = 0xffffffff8707001b;
+                                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4672: error: integer number too large
+        public static final int pi2_input_select_bottom_sheet = 0xffffffff8707001c;
+                                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4673: error: integer number too large
+        public static final int pi2_inquiry_activity = 0xffffffff8707001d;
+                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4674: error: integer number too large
+        public static final int pi2_inquiry_complete = 0xffffffff8707001e;
+                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4675: error: integer number too large
+        public static final int pi2_inquiry_fragment = 0xffffffff8707001f;
+                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4676: error: integer number too large
+        public static final int pi2_inquiry_initializing = 0xffffffff87070020;
+                                                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4677: error: integer number too large
+        public static final int pi2_inquiry_ui = 0xffffffff87070021;
+                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4678: error: integer number too large
+        public static final int pi2_navigation_bar = 0xffffffff87070022;
+                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4679: error: integer number too large
+        public static final int pi2_navigation_help_bottom_sheet = 0xffffffff87070023;
+                                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4680: error: integer number too large
+        public static final int pi2_navigation_troubleshooting_tips_page_item = 0xffffffff87070024;
+                                                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4681: error: integer number too large
+        public static final int pi2_old_selfie_camera = 0xffffffff87070025;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4682: error: integer number too large
+        public static final int pi2_old_selfie_overlay = 0xffffffff87070026;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4683: error: integer number too large
+        public static final int pi2_radio_button = 0xffffffff87070027;
+                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4684: error: integer number too large
+        public static final int pi2_request_permission_rationale = 0xffffffff87070028;
+                                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4685: error: integer number too large
+        public static final int pi2_sandbox_options_dialog = 0xffffffff87070029;
+                                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4686: error: integer number too large
+        public static final int pi2_sandbox_overlay = 0xffffffff8707002a;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4687: error: integer number too large
+        public static final int pi2_selfie_camera = 0xffffffff8707002b;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4688: error: integer number too large
+        public static final int pi2_selfie_camera_restart = 0xffffffff8707002c;
+                                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4689: error: integer number too large
+        public static final int pi2_selfie_instructions = 0xffffffff8707002d;
+                                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4690: error: integer number too large
+        public static final int pi2_selfie_review_captures = 0xffffffff8707002e;
+                                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4691: error: integer number too large
+        public static final int pi2_selfie_review_item = 0xffffffff8707002f;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4692: error: integer number too large
+        public static final int pi2_selfie_step = 0xffffffff87070030;
+                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4693: error: integer number too large
+        public static final int pi2_selfie_submitting_screen = 0xffffffff87070031;
+                                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4694: error: integer number too large
+        public static final int pi2_signature_bottom_sheet = 0xffffffff87070032;
+                                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4695: error: integer number too large
+        public static final int pi2_ui_2fa_auth = 0xffffffff87070033;
+                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4696: error: integer number too large
+        public static final int pi2_ui_address_field = 0xffffffff87070034;
+                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4697: error: integer number too large
+        public static final int pi2_ui_button_with_loading_indicator = 0xffffffff87070035;
+                                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4698: error: integer number too large
+        public static final int pi2_ui_clickable_stack = 0xffffffff87070036;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4699: error: integer number too large
+        public static final int pi2_ui_date_field = 0xffffffff87070037;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4700: error: integer number too large
+        public static final int pi2_ui_date_list_item = 0xffffffff87070038;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4701: error: integer number too large
+        public static final int pi2_ui_footer = 0xffffffff87070039;
+                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4702: error: integer number too large
+        public static final int pi2_ui_government_id_nfc_scan = 0xffffffff8707003a;
+                                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4703: error: integer number too large
+        public static final int pi2_ui_horizontal_stack = 0xffffffff8707003b;
+                                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4704: error: integer number too large
+        public static final int pi2_ui_image_lottie = 0xffffffff8707003c;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4705: error: integer number too large
+        public static final int pi2_ui_image_view = 0xffffffff8707003d;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4706: error: integer number too large
+        public static final int pi2_ui_input_checkbox = 0xffffffff8707003e;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4707: error: integer number too large
+        public static final int pi2_ui_input_checkbox_group = 0xffffffff8707003f;
+                                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4708: error: integer number too large
+        public static final int pi2_ui_input_file_upload = 0xffffffff87070040;
+                                                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4709: error: integer number too large
+        public static final int pi2_ui_input_number = 0xffffffff87070041;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4710: error: integer number too large
+        public static final int pi2_ui_input_phone_number = 0xffffffff87070042;
+                                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4711: error: integer number too large
+        public static final int pi2_ui_input_radio_group = 0xffffffff87070043;
+                                                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4712: error: integer number too large
+        public static final int pi2_ui_input_text = 0xffffffff87070044;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4713: error: integer number too large
+        public static final int pi2_ui_input_text_area = 0xffffffff87070045;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4714: error: integer number too large
+        public static final int pi2_ui_international_db_field = 0xffffffff87070046;
+                                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4715: error: integer number too large
+        public static final int pi2_ui_list_item = 0xffffffff87070047;
+                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4716: error: integer number too large
+        public static final int pi2_ui_list_select = 0xffffffff87070048;
+                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4717: error: integer number too large
+        public static final int pi2_ui_main_view_container = 0xffffffff87070049;
+                                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4718: error: integer number too large
+        public static final int pi2_ui_privacy_policy = 0xffffffff8707004a;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4719: error: integer number too large
+        public static final int pi2_ui_secure_text = 0xffffffff8707004b;
+                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4720: error: integer number too large
+        public static final int pi2_ui_signature_field = 0xffffffff8707004c;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4721: error: integer number too large
+        public static final int pi2_ui_text = 0xffffffff8707004d;
+                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4722: error: integer number too large
+        public static final int pi2_ui_title = 0xffffffff8707004e;
+                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4723: error: integer number too large
+        public static final int pi2_verify_with_google_wallet = 0xffffffff8707004f;
+                                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4724: error: integer number too large
+        public static final int view_stack_layout = 0xffffffff87070050;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4892: error: integer number too large
+        public static final int pi2_input_select_menu = 0xffffffff87080000;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4901: error: integer number too large
+        public static final int pi2_add_document_button = 0xffffffff87090000;
+                                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4902: error: integer number too large
+        public static final int pi2_barcode_intro_lottie = 0xffffffff87090001;
+                                                           ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4903: error: integer number too large
+        public static final int pi2_default_failed = 0xffffffff87090002;
+                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4904: error: integer number too large
+        public static final int pi2_document_failed = 0xffffffff87090003;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4905: error: integer number too large
+        public static final int pi2_document_hero = 0xffffffff87090004;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4906: error: integer number too large
+        public static final int pi2_document_loading_lottie = 0xffffffff87090005;
+                                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4907: error: integer number too large
+        public static final int pi2_document_start_hero = 0xffffffff87090006;
+                                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4908: error: integer number too large
+        public static final int pi2_government_id_nfc_scan_back_closed = 0xffffffff87090007;
+                                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4909: error: integer number too large
+        public static final int pi2_government_id_nfc_scan_back_opened = 0xffffffff87090008;
+                                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4910: error: integer number too large
+        public static final int pi2_government_id_nfc_scan_back_then_front = 0xffffffff87090009;
+                                                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4911: error: integer number too large
+        public static final int pi2_government_id_nfc_scan_front_closed = 0xffffffff8709000a;
+                                                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4912: error: integer number too large
+        public static final int pi2_government_id_nfc_scan_front_opened = 0xffffffff8709000b;
+                                                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4913: error: integer number too large
+        public static final int pi2_government_id_nfc_scan_id_card = 0xffffffff8709000c;
+                                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4914: error: integer number too large
+        public static final int pi2_government_id_nfc_scan_photo_page = 0xffffffff8709000d;
+                                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4915: error: integer number too large
+        public static final int pi2_head_turning = 0xffffffff8709000e;
+                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4916: error: integer number too large
+        public static final int pi2_head_turning_center = 0xffffffff8709000f;
+                                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4917: error: integer number too large
+        public static final int pi2_head_turning_reversed = 0xffffffff87090010;
+                                                            ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4918: error: integer number too large
+        public static final int pi2_id_back_fail = 0xffffffff87090011;
+                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4919: error: integer number too large
+        public static final int pi2_id_front_fail = 0xffffffff87090012;
+                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4920: error: integer number too large
+        public static final int pi2_id_front_processing_lottie = 0xffffffff87090013;
+                                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4921: error: integer number too large
+        public static final int pi2_id_scan_loading = 0xffffffff87090014;
+                                                      ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4922: error: integer number too large
+        public static final int pi2_initial_load_animation = 0xffffffff87090015;
+                                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4923: error: integer number too large
+        public static final int pi2_inquiry_failed = 0xffffffff87090016;
+                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4924: error: integer number too large
+        public static final int pi2_inquiry_start_hero = 0xffffffff87090017;
+                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4925: error: integer number too large
+        public static final int pi2_inquiry_successanimation = 0xffffffff87090018;
+                                                               ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4926: error: integer number too large
+        public static final int pi2_mrz_intro_lottie = 0xffffffff87090019;
+                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4927: error: integer number too large
+        public static final int pi2_nfc_tap = 0xffffffff8709001a;
+                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4928: error: integer number too large
+        public static final int pi2_option_check_icon = 0xffffffff8709001b;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4929: error: integer number too large
+        public static final int pi2_option_chevron_icon = 0xffffffff8709001c;
+                                                          ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4930: error: integer number too large
+        public static final int pi2_option_flag_icon = 0xffffffff8709001d;
+                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4931: error: integer number too large
+        public static final int pi2_option_globe_icon = 0xffffffff8709001e;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4932: error: integer number too large
+        public static final int pi2_option_home_icon = 0xffffffff8709001f;
+                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4933: error: integer number too large
+        public static final int pi2_option_id_document_icon = 0xffffffff87090020;
+                                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4934: error: integer number too large
+        public static final int pi2_option_id_icon = 0xffffffff87090021;
+                                                     ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4935: error: integer number too large
+        public static final int pi2_option_phone_icon = 0xffffffff87090022;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4936: error: integer number too large
+        public static final int pi2_option_user_icon = 0xffffffff87090023;
+                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4937: error: integer number too large
+        public static final int pi2_passport_nfc_scan_hero = 0xffffffff87090024;
+                                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4938: error: integer number too large
+        public static final int pi2_passport_nfc_scan_ready_hero = 0xffffffff87090025;
+                                                                   ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4939: error: integer number too large
+        public static final int pi2_passport_nfc_start_hero = 0xffffffff87090026;
+                                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4940: error: integer number too large
+        public static final int pi2_remove_document_button = 0xffffffff87090027;
+                                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4941: error: integer number too large
+        public static final int pi2_selfie_capture_success = 0xffffffff87090028;
+                                                             ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4942: error: integer number too large
+        public static final int pi2_selfie_fail = 0xffffffff87090029;
+                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4943: error: integer number too large
+        public static final int pi2_selfie_left_pose = 0xffffffff8709002a;
+                                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4944: error: integer number too large
+        public static final int pi2_selfie_processing = 0xffffffff8709002b;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4945: error: integer number too large
+        public static final int pi2_selfie_right_pose = 0xffffffff8709002c;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4946: error: integer number too large
+        public static final int pi2_upload_gov_id_back_lottie = 0xffffffff8709002d;
+                                                                ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4947: error: integer number too large
+        public static final int pi2_upload_gov_id_front_lottie = 0xffffffff8709002e;
+                                                                 ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4948: error: integer number too large
+        public static final int pi2_upload_gov_id_passport_lottie = 0xffffffff8709002f;
+                                                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4968: error: integer number too large
+        public static final int Pi2SelfieImagePreview = 0xffffffff870a0000;
+                                                        ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:4969: error: integer number too large
+        public static final int Pi2SelfieImagePreviewAppearanceOverlay = 0xffffffff870a0001;
+                                                                         ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/com/roblox/client/personasdk/R.java:6161: error: integer number too large
+        public static final int nfc_tech_filter = 0xffffffff870c0000;
+                                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/n0/i4.java:14: error: = expected
+    public static final n1.a<Integer> A;
+                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/n0/i4.java:15: error: = expected
+    public static final n1.a<Integer> B;
+                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/n0/i4.java:16: error: = expected
+    public static final n1.a<Range<Integer>> C;
+                                              ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/n0/i4.java:17: error: = expected
+    public static final n1.a<Boolean> D;
+                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/n0/i4.java:18: error: = expected
+    public static final n1.a<Boolean> E;
+                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/n0/i4.java:19: error: = expected
+    public static final n1.a<Boolean> F;
+                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/n0/i4.java:20: error: = expected
+    public static final n1.a<j4.b> G;
+                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/n0/i4.java:21: error: = expected
+    public static final n1.a<Integer> H;
+                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/n0/i4.java:22: error: = expected
+    public static final n1.a<Integer> I;
+                                       ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/n0/i4.java:23: error: = expected
+    public static final n1.a<b1.b> J;
+                                    ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/n0/i4.java:24: error: = expected
+    public static final n1.a<u3> K;
+                                  ^
+/data/data/com.termux/files/home/Roblox-Free-Delta/build_kit/work/out/sources/n0/i4.java:52: error: initializers not allowed in interfaces
+    static {
+           ^
+680 errors
