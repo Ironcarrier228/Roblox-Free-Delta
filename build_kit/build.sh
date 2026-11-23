@@ -4,7 +4,7 @@
 # Что делает:
 #   1. проверяет инструменты (java/javac, curl, tar, unzip)
 #   2. качает android.jar API 35 (27 МБ, с проверкой целостности)
-#   3. распаковывает исходники и накладывает 1204 исправления
+#   3. распаковывает исходники и накладывает 1319 исправлений
 #   4. исключает 9 файлов, невосстановимых декомпиляцией (см. still_broken_9.txt)
 #   5. компилирует и складывает отчёт об ошибках
 #
@@ -41,10 +41,10 @@ SRC="$WORK/out/sources"
 TOTAL=$(find "$SRC" -name '*.java' | wc -l | tr -d ' ')
 echo "файлов: $TOTAL"
 
-say "4/5 Патчи (1204 файла) + исключение невосстановимых (9)"
+say "4/5 Патчи (1319 файлов) + исключение невосстановимых (9)"
 if [ -f "$ROOT/syntax_fixes.zip" ]; then
   ( cd "$WORK/out" && unzip -qo "$ROOT/syntax_fixes.zip" ) || die "не удалось наложить syntax_fixes.zip"
-  echo "наложено 1204 исправленных файлов"
+  echo "наложено 1319 исправленных файлов"
 else
   echo "ВНИМАНИЕ: syntax_fixes.zip не найден — компилирую как есть"
 fi
@@ -69,16 +69,24 @@ python3 "$ROOT/dex_recovery/extract_dex.py" "$ROOT" "$DEXDIR"
 if ls "$DEXDIR"/*.dex >/dev/null 2>&1; then
   DEXLIST=$(ls "$DEXDIR"/*.dex | tr '\n' ' ')
   echo "dex: $(ls "$DEXDIR"/*.dex | wc -l | tr -d ' ') файлов"
-  echo "[1/3] F5: конфликтующие импорты (JLS 7.5.1)"
+  # Порядок принципиален:
+  #  F6 ДО F5 — иначе удалённый импорт лишает ссылки смысла (проверено: 408
+  #  ошибок в ci/a.java оставались именно из-за этого).
+  echo "[1/4] F6: полная квалификация конфликтующих ссылок (по DEX)"
+  python3 "$ROOT/dex_recovery/fix_qualified_nested.py" "$SRC" $DEXLIST --apply | head -1
+  echo "[2/4] F5: удалить оставшиеся самоссылки import x.x"
   python3 "$ROOT/dex_recovery/fix_import_shadow.py" "$SRC" --apply | head -1
-  echo "[2/3] F4: типы потерянных локальных (?? name = ...)"
+  echo "[3/4] F4: типы потерянных локальных (?? name = ...)"
   python3 "$ROOT/dex_recovery/fix_unknown_local.py" "$SRC" --apply | head -1
-  echo "[3/3] возврат пропавших ВЛОЖЕННЫХ классов по сигнатурам из DEX"
+  echo "[4/4] возврат пропавших ВЛОЖЕННЫХ классов по сигнатурам из DEX"
   python3 "$ROOT/dex_recovery/inject_nested.py" "$SRC" "$SRC" $DEXLIST | tail -1
+  # повторно: у вставленных классов тоже бывают конфликтные имена
+  python3 "$ROOT/dex_recovery/fix_qualified_nested.py" "$SRC" $DEXLIST --apply | head -1
 else
   echo "ВНИМАНИЕ: dex не найден — восстановление из DEX пропущено"
 fi
 
+say "5/5 Компиляция"
 say "5/5 Компиляция"
 
 mkdir -p "$OUT"; rm -rf "$OUT"/*
